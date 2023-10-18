@@ -1,0 +1,57 @@
+**INSERT**
+INSERT
+  INTO  "SQJ42328"."NEW" ("COLUMN_0","COLUMN_1","COLUMN_2","COLUMN_3","COLUMN_4","COLUMN_5","COLUMN_6","COLUMN_7","COLUMN_8","COLUMN_9","COLUMN_10","COLUMN_11","COLUMN_12")
+  VALUES(
+NULL,               	--COLUMN_0  VARCHAR(3)  
+NULL,               	--COLUMN_1  VARCHAR(28)  
+NULL,               	--COLUMN_2  INTEGER 
+NULL,               	--COLUMN_3  SMALLINT 
+NULL,               	--COLUMN_4  INTEGER 
+NULL,               	--COLUMN_5  INTEGER 
+NULL,               	--COLUMN_6  INTEGER 
+NULL,               	--COLUMN_7  INTEGER 
+NULL,               	--COLUMN_8  DECIMAL(6)  
+NULL,               	--COLUMN_9  DECIMAL(6)  
+NULL,               	--COLUMN_10  DECIMAL(6)  
+NULL,               	--COLUMN_11  DECIMAL(6)  
+NULL                	--COLUMN_12  DECIMAL(6)  
+);
+**SELECT**
+SELECT "COLUMN_0", "COLUMN_1", "COLUMN_2", "COLUMN_3", "COLUMN_4", "COLUMN_5", "COLUMN_6", "COLUMN_7", "COLUMN_8", "COLUMN_9", "COLUMN_10", "COLUMN_11", "COLUMN_12"
+  FROM "SQJ42328"."NEW";
+**UPDATE**
+UPDATE "SQJ42328"."NEW"
+  SET
+  "COLUMN_0" = NULL,                   	--COLUMN_0  VARCHAR(3)  
+  "COLUMN_1" = NULL,                   	--COLUMN_1  VARCHAR(28)  
+  "COLUMN_2" = NULL,                   	--COLUMN_2  INTEGER 
+  "COLUMN_3" = NULL,                   	--COLUMN_3  SMALLINT 
+  "COLUMN_4" = NULL,                   	--COLUMN_4  INTEGER 
+  "COLUMN_5" = NULL,                   	--COLUMN_5  INTEGER 
+  "COLUMN_6" = NULL,                   	--COLUMN_6  INTEGER 
+  "COLUMN_7" = NULL,                   	--COLUMN_7  INTEGER 
+  "COLUMN_8" = NULL,                   	--COLUMN_8  DECIMAL(6)  
+  "COLUMN_9" = NULL,                   	--COLUMN_9  DECIMAL(6)  
+  "COLUMN_10" = NULL,                  	--COLUMN_10  DECIMAL(6)  
+  "COLUMN_11" = NULL,                  	--COLUMN_11  DECIMAL(6)  
+  "COLUMN_12" = NULL                  	--COLUMN_12  DECIMAL(6)  
+  --Search condition (e.g. WHERE "COLUMN_0" isnull)
+  WHERE 1 = 1;
+**DELETE**
+UPDATE "SQJ42328"."NEW"
+  SET
+  "COLUMN_0" = NULL,                   	--COLUMN_0  VARCHAR(3)  
+  "COLUMN_1" = NULL,                   	--COLUMN_1  VARCHAR(28)  
+  "COLUMN_2" = NULL,                   	--COLUMN_2  INTEGER 
+  "COLUMN_3" = NULL,                   	--COLUMN_3  SMALLINT 
+  "COLUMN_4" = NULL,                   	--COLUMN_4  INTEGER 
+  "COLUMN_5" = NULL,                   	--COLUMN_5  INTEGER 
+  "COLUMN_6" = NULL,                   	--COLUMN_6  INTEGER 
+  "COLUMN_7" = NULL,                   	--COLUMN_7  INTEGER 
+  "COLUMN_8" = NULL,                   	--COLUMN_8  DECIMAL(6)  
+  "COLUMN_9" = NULL,                   	--COLUMN_9  DECIMAL(6)  
+  "COLUMN_10" = NULL,                  	--COLUMN_10  DECIMAL(6)  
+  "COLUMN_11" = NULL,                  	--COLUMN_11  DECIMAL(6)  
+  "COLUMN_12" = NULL                  	--COLUMN_12  DECIMAL(6)  
+  --Search condition (e.g. WHERE "COLUMN_0" isnull)
+  WHERE 1 = 1
